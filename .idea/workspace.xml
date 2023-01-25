@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a2f673-8e05-4eba-9b0c-db1e7894ba81" name="Changes" comment="unitTest" />
+    <list default="true" id="24a2f673-8e05-4eba-9b0c-db1e7894ba81" name="Changes" comment="unitTest">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/MyService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -126,7 +133,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1674669670619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="unitTest">
+      <created>1674670195041</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1674670195041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +164,7 @@
     <SUITE FILE_PATH="coverage/test_playground$MyServiceTest_testSum.ic" NAME="MyServiceTest.testSum Coverage Results" MODIFIED="1674669695140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lt.code.academy.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/test_playground$MyServiceTest.ic" NAME="MyServiceTest Coverage Results" MODIFIED="1674669167055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/test_playground$MyServiceTest.ic" NAME="MyServiceTest Coverage Results" MODIFIED="1674670205149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lt.code.academy.*</FILTER>
     </SUITE>
   </component>
