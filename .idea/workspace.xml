@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a2f673-8e05-4eba-9b0c-db1e7894ba81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/code/academy/MyServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="24a2f673-8e05-4eba-9b0c-db1e7894ba81" name="Changes" comment="unitTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +55,7 @@
       <recent name="lt.code.academy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyServiceTest.testSum">
+  <component name="RunManager" selected="JUnit.MyServiceTest">
     <configuration name="MyServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test.playground" />
       <extension name="coverage">
@@ -113,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyServiceTest.testSum" />
         <item itemvalue="JUnit.MyServiceTest" />
+        <item itemvalue="JUnit.MyServiceTest.testSum" />
         <item itemvalue="JUnit.MyServiceTest.testWhenResultIsCorrect" />
       </list>
     </recent_temporary>
@@ -128,6 +120,13 @@
       <option name="presentableId" value="Default" />
       <updated>1674667765752</updated>
     </task>
+    <task id="LOCAL−00001" summary="unitTest">
+      <created>1674669670619</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674669670619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,8 +140,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unitTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="unitTest" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test_playground$MyServiceTest_testWhenResultIsCorrect.ic" NAME="MyServiceTest.testWhenResultIsCorrect Coverage Results" MODIFIED="1674669056643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lt.code.academy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test_playground$MyServiceTest_testSum.ic" NAME="MyServiceTest.testSum Coverage Results" MODIFIED="1674669695140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lt.code.academy.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/test_playground$MyServiceTest.ic" NAME="MyServiceTest Coverage Results" MODIFIED="1674669167055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -26,4 +26,10 @@ class MyServiceTest {
         assertEquals(0, sum);
 
     }
+    @Test
+    void testSum3() {
+        int sum = service.sum(50, null);
+        assertEquals(0, sum);
+
+    }
 }
